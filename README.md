@@ -1,5 +1,5 @@
 # magecheck/netopia
-MageCheck - Magento 2 Categories Mapping Tool based on attributes
+MageCheck - Magento 2 Netopia
 
 ------------
 This company is the start-up of supplying Magento 2 extensions to the eCommerce market, making new friends,building new e-commerce and adding value to existing online shops.
