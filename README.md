@@ -27,7 +27,7 @@ Now you are set to go!
 
 Contribution
 ------------
-Any contribution to the development of Magento 2 Customer History Items Tab is highly welcome. The best possibility to provide any code is to open a [pull request on GitHub](https://help.github.com/articles/using-pull-requests).
+Any contribution to the development of Magento 2 Netopia is highly welcome. The best possibility to provide any code is to open a [pull request on GitHub](https://help.github.com/articles/using-pull-requests).
 
 Developer
 ---------
