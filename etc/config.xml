@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * MageCheck
+ * Magento 2 Netopia Sms Sender
+ *
+ * @author Chiriac Victor
+ * @since 07.2018
+ * @category   MageCheck
+ * @package    MageCheck_Netopia
+ * @copyright  Copyright (c) 2017 Mage Check (http://www.magecheck.com/)
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <netopia_section>
+            <configuration>
+                <api_url>https://www.web2sms.ro/api?wsdl</api_url>
+                <message_order_success>Multumim %s pentru comanda cu nr %s!</message_order_success>
+                <message_create_shippment>Coletul dumneavoastra va fi livrat prin %s! Pentru a urmari comanda va rog intrati pe site-ul companiei de transport si cautati dupa numarul de tracking: %s. Va multumim inca o data pentru alegerea facuta!</message_create_shippment>
+            </configuration>
+        </netopia_section>
+    </default>
+</config>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * MageCheck
+ * Magento 2 Netopia Sms Sender
+ *
+ * @author Chiriac Victor
+ * @since 07.2018
+ * @category   MageCheck
+ * @package    MageCheck_Netopia
+ * @copyright  Copyright (c) 2017 Mage Check (http://www.magecheck.com/)
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+    <module name="MageCheck_Netopia" setup_version="1.0.0"></module>
+</config>
